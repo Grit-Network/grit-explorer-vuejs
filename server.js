@@ -1,7 +1,7 @@
 const fs = require('fs');
 const http = require('http');
 
-const PORT = 4000;
+const PORT = 80;
 const CONFIG_ROUTE = '/config';
 const DEFAULT_CONFIG_PATH = '/src/config/default.json';
 const STATIC_FOLDER = '/www';
