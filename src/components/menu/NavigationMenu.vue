@@ -131,7 +131,7 @@ export default {
     }
 
     .ex-menu-item.active {
-        color: var(--light);
+        color: rgb(0, 183, 255);
         font-weight: 600;
         opacity: 1;
     }
@@ -143,7 +143,7 @@ export default {
         left: 0;
         width: 100%;
         height: 3px;
-        background: var(--light);
+        background: rgb(0, 141, 197);
         transition: all 0.2s ease-in-out;
     }
 

@@ -33,9 +33,9 @@ export default {
 }
 
 .btn-green {
-    border: 1px solid $grit-color;
+    border: 1px solid white;
     border-radius: 4px;
-    color: $grit-color;
+    color: white;
     font-size: 12px;
     padding: 5px 12px 5px 12px;
     line-height: 1.6;
